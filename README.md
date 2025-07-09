@@ -108,7 +108,7 @@ plt.show()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data_analysis_warmup_exercises.git
+   https://github.com/harshavardhanBOMMALATA/DataAnalysisWarmUpExercises.git
    ```
 
 2. Open the notebook:
